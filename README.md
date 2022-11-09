@@ -2,4 +2,4 @@
 
 ## 1. Foundation
 
-* [Introduction](foundation/001.introduction.md)
+* [Elementary](foundation/001.introduction.md)
